@@ -198,8 +198,23 @@ footer.footer{
     bottom: 0;
 }
 
-footer .social{
+.footer .social{
     text-align: center;
     padding-bottom: 25px;
     color: white;
+}
+.footer .social a {
+    font-size: 24px;
+    color: white;
+    border: 2px solid orangered;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    box-shadow: inset 0 0 10px orangered;
+    transition: 0.3s ease;
+
 }
