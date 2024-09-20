@@ -128,3 +128,8 @@ span{
     background-color: white;
     color:orangered;
 }
+
+.img-box img {
+    border-radius: 50%;
+    width: 550px;
+}
