@@ -190,3 +190,16 @@ span{
     resize: none;
 
 }
+footer.footer{
+    width: 100%;
+    padding: 40px 0;
+    background-color: black;
+    position: relative;
+    bottom: 0;
+}
+
+footer .social{
+    text-align: center;
+    padding-bottom: 25px;
+    color: white;
+}
